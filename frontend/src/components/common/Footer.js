@@ -49,11 +49,11 @@ function Footer() {
 
   return (
     <FooterContainer $isDarkMode={isDarkMode}>
-      <TextContainer>
+      {/* <TextContainer>
         <div>Designed & Developed with</div>
         <HeartIcon>  &hearts;  </HeartIcon>
         <div>by Janhvi Pandey</div>
-      </TextContainer>
+      </TextContainer> */}
     </FooterContainer>
   );
 }
